@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/gold_membership"
+        android:title="@string/gold_membership"
+        android:icon="@drawable/ic_gold_membership"
+        />
+    <item
+        android:id="@+id/leader_board"
+        android:title="@string/leader_board"
+        android:icon="@drawable/ic_leaderboard"
+        />
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        />
+    <item
+        android:id="@+id/withdraw"
+        android:title="@string/withdraw"
+        android:icon="@drawable/ic_withdraw"
+        />
+    <item
+        android:id="@+id/instructions"
+        android:title="@string/instructions"
+        android:icon="@drawable/ic_instructions"
+        />
+    <item
+        android:id="@+id/contact_us"
+        android:title="@string/contact_us"
+        android:icon="@drawable/ic_contact_us"
+        />
+    <item
+        android:id="@+id/earn_coins"
+        android:title="@string/earn_coins"
+        android:icon="@drawable/ic_earn_coins"
+        />
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="@string/privacy_policy"
+        android:icon="@drawable/ic_privacy_policy"
+        />
+
+</menu>

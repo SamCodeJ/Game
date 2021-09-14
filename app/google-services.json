@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "482856996680",
+    "firebase_url": "https://game-questions-b856c-default-rtdb.firebaseio.com",
+    "project_id": "game-questions-b856c",
+    "storage_bucket": "game-questions-b856c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482856996680:android:101e52ed34e0aba203ed7d",
+        "android_client_info": {
+          "package_name": "fortz.company.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482856996680-qrkoloromph7djc3cledlv6o3bmfvsnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uunWEmNcnAAJYRZPD6Of3GXmZEz_LLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482856996680-qrkoloromph7djc3cledlv6o3bmfvsnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482856996680:android:f6f36256aadf27b803ed7d",
+        "android_client_info": {
+          "package_name": "fortz.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482856996680-qrkoloromph7djc3cledlv6o3bmfvsnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uunWEmNcnAAJYRZPD6Of3GXmZEz_LLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482856996680-qrkoloromph7djc3cledlv6o3bmfvsnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
